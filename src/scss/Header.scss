@@ -1,0 +1,6 @@
+$theme-color : #00AB44;
+
+.HeaderWrap ul{display: flex;justify-content: space-between;}
+.HeaderWrap{padding: 15px;}
+.active{font-weight: 700;}
+.active a{color: $theme-color;}

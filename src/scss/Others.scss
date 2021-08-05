@@ -1,0 +1,20 @@
+$theme-color : #00AB44;
+
+.OthersWrap{
+    h2{
+        margin-bottom: 10px;
+        text-transform: uppercase;
+        color: $theme-color;
+    }
+    .EducationWrap{
+    }
+    .certificationsWrap{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .coCurrWrap{
+        ul{padding-left: 15px;}
+        li{list-style-type: disc;margin-bottom: 5px;}
+    }
+
+}
